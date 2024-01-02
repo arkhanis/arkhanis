@@ -10,6 +10,12 @@
 
 <br><br>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About me</h2></summary>
+  </ul>
+</div>
+
 - :school: I am an industrial engineer converted into a programmer.
 - :computer: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
@@ -46,6 +52,11 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Trophies won</h2></summary>
+  </ul>
+</div>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
