@@ -8,27 +8,31 @@
 </p>
 
 
-<br><br>
+<br>
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
 </div>
-<div align="center">
+
 - :school: I am an industrial engineer converted into a programmer.
 - :computer: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1lSImSDtRI9zyAsgRAlZ4L-0M7zz-n6eE).
 - :boom: You can visit [MY WEBSITE](https://casanovacesar.com/).
-</div>
+
   <br>
 
 <!--Intro start-->
 
 <!--Intro end-->
 
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Stats</h2></summary>
+  </ul>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
