@@ -14,7 +14,7 @@
 - :computer: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1lSImSDtRI9zyAsgRAlZ4L-0M7zz-n6eE).
-- :boom: You can visit [MY WEBSITE](https:/casanovacesar.com).
+- :boom: You can visit [MY WEBSITE](https://casanovacesar.com/).
 <br>
 
 <!--Intro start-->
