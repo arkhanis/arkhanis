@@ -49,12 +49,13 @@
 </td>
 
 <td width="50%" align="center">
+  
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=arkhanis&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=arkhanis&icon=3&color=6)](https://visitcount.itsvg.in)  
 </div>
+
+
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arkhanis&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
