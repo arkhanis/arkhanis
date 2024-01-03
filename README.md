@@ -52,7 +52,7 @@
   
 <!--profile visit count-->
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=arkhanis&label=Profile%20Views&color=0&icon=0&pretty=false" />
+<img src="https://visitcount.itsvg.in/api?id=arkhanis&label=Profile%20Views&color=2&icon=5&pretty=false" />
 </div>
 </br>
 
