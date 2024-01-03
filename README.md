@@ -51,8 +51,9 @@
 <td width="50%" align="center">
   
 <!--profile visit count-->
+<!-- https://visitcount.itsvg.in/ -->
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=arkhanis&label=Profile%20Views&color=2&icon=5&pretty=false" />
+<img src="https://visitcount.itsvg.in/api?id=arkhanis&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </div>
 </br>
 
