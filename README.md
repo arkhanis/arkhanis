@@ -7,6 +7,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-end+Developer+@arkhanis;Industrial+Engineer;Spirit+Learner"></a>
 </p>
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=arkhanis&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 <br>
 
@@ -102,12 +108,4 @@
 <a href="https://www.linkedin.com/in/cesar-casanova//" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=arkhanis&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
