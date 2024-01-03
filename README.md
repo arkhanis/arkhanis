@@ -25,12 +25,7 @@
 
 <!--Intro start-->
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=arkhanis&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+
 
 <!--Intro end-->
 
@@ -47,6 +42,13 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=arkhanis&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arkhanis&theme=dark&show_icons=true&count_private=true" />
   <br></br>
